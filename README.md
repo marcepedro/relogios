@@ -3,4 +3,4 @@
 https://marcepedro.github.io/relogios/#!
 
 Bootstrap design for static webpage
-Not any service running, but I plant to build it lake a store, with online transactions
+There aren't any services running, but I plan to build it like a e-store, with realtime online transactions (Pix and Credit cards).
